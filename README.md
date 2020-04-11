@@ -10,7 +10,6 @@ A generated IBM Cloud application
 
 ```bash
 npm install
-npm test
 npm start
 ```
 
